@@ -42,7 +42,8 @@ group :development, :test do
   gem 'spring'
   gem 'sqlite3'
   gem 'rspec-rails'
-
+  gem 'guard'
+  gem 'guard-rspec'
 end
 
 
